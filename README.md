@@ -19,8 +19,8 @@ Default preset: **React + Tailwind v4 + shadcn/ui, minimal clean (Linear/Vercel 
 ## Quick start
 ```bash
 # 1. Get the skill
-npx degit YOUR_USERNAME/modular-design-system my-design-system
-# or: git clone https://github.com/bye-shuvo/modular-design-system.git
+npx skills add bye-shuvo/modular-design-system
+# or: git clone https://github.com/bye-shuvo/Modular-Design-System
 
 # 2. (Optional) set preferences interactively
 node scripts/configure.mjs SKILL.md
